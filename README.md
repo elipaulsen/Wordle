@@ -15,12 +15,12 @@ Welcome to the C++ CLI Wordle Game! This command-line-based Wordle game allows p
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/elipaulsen/wordle.git
-   cd wordle
+   git clone https://github.com/elipaulsen/Wordle.git
+   cd Wordle
    ```
 2. **Compile the game:**
    ```bash
-   g++ -o game main.cpp wordle.cpp
+   g++ -o game main.cpp Wordle.cpp
    ```
 3. **Play**
    ```bash
